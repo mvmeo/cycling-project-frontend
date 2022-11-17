@@ -1,7 +1,8 @@
 import React from "react";
 import Navbar from "../components/Navbar";
+import { ProductProps } from "../types";
 
-const ProductPage = () => {
+const Product = (props: ProductProps) => {
   return (
     <div className="mb-14">
       <Navbar />
@@ -120,4 +121,4 @@ const ProductPage = () => {
   );
 };
 
-export default ProductPage;
+export default Product;

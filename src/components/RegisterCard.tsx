@@ -6,7 +6,7 @@ const RegisterCard = () => {
         <h1 className="text-3xl font-bold">Crea tu cuenta</h1>
 
         <p className="mt-4 text-grayDarker">
-          Aprovecha todas las funcionalidades que <b>inroutes</b> tiene para ti registrandote.
+          Aprovecha todas las funcionalidades que <b>MARCA</b> tiene para ti registrandote.
         </p>
 
         <div className="mt-4 space-y-4">

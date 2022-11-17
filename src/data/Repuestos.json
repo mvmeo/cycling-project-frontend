@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "name": "Repuesto 1",
+    "price": 100000,
+    "image": "https://rockandroad.cl/Content/products/1192/f/37/f370cc6870894ca995f8546e25968b7e_290.jpg",
+    "store": "Tienda 1"
+  },
+  {
+    "id": "2",
+    "name": "Repuesto 2",
+    "price": 200000,
+    "image": "https://rockandroad.cl/Content/products/1192/d/7b/d7b108accd584ae7bb582f12b08c667a_290.jpg",
+    "store": "Tienda 2"
+  },
+  {
+    "id": "3",
+    "name": "Repuesto 3",
+    "price": 300000,
+    "image": "https://rockandroad.cl/Content/products/1192/3/65/365741995d854904ac5bf3d3b5f5d17d_290.jpg",
+    "store": "Tienda 3"
+  },
+  {
+    "id": "4",
+    "name": "Repuesto 4",
+    "price": 400000,
+    "image": "https://rockandroad.cl/Content/products/1192/c/b8/cb8e6601ff8b4b02b1e5c9b0780cd16d_290.jpg",
+    "store": "Tienda 4"
+  },
+  {
+    "id": "2",
+    "name": "Repuesto 2",
+    "price": 200000,
+    "image": "https://rockandroad.cl/Content/products/1192/d/7b/d7b108accd584ae7bb582f12b08c667a_290.jpg",
+    "store": "Tienda 2"
+  },
+  {
+    "id": "3",
+    "name": "Repuesto 3",
+    "price": 300000,
+    "image": "https://rockandroad.cl/Content/products/1192/3/65/365741995d854904ac5bf3d3b5f5d17d_290.jpg",
+    "store": "Tienda 3"
+  },
+  {
+    "id": "4",
+    "name": "Repuesto 4",
+    "price": 400000,
+    "image": "https://rockandroad.cl/Content/products/1192/c/b8/cb8e6601ff8b4b02b1e5c9b0780cd16d_290.jpg",
+    "store": "Tienda 4"
+  }
+]

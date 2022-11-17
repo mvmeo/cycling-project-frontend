@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bicicleta 1",
+    "price": 100000,
+    "image": "https://rockandroad.cl/Content/products/1192/2/77/2776261dfa9d49a7b3bf5ba10953a0a8_600.jpg",
+    "store": "Tienda 1"
+  },
+  {
+    "name": "Bicicleta 2",
+    "price": 200000,
+    "image": "https://rockandroad.cl/Content/products/1192/8/d0/8d022771603b4260862fa2b893695e9e_600.jpg",
+    "store": "Tienda 2"
+  },
+  {
+    "name": "Bicicleta 3",
+    "price": 300000,
+    "image": "https://rockandroad.cl/Content/products/1192/b/d0/bd019025532e4b75b22f3e41ac0eb03c_600.jpg",
+    "store": "Tienda 3"
+  },
+  {
+    "name": "Bicicleta 4",
+    "price": 400000,
+    "image": "https://rockandroad.cl/Content/products/1192/4/1c/41c9b525be8e48d29edf74e915922d79_900.jpg",
+    "store": "Tienda 4"
+  },
+  {
+    "name": "Bicicleta 5",
+    "price": 500000,
+    "image": "https://rockandroad.cl/Content/products/1192/4/1c/41c9b525be8e48d29edf74e915922d79_900.jpg",
+    "store": "Tienda 5"
+  },
+  {
+    "name": "Bicicleta 5",
+    "price": 500000,
+    "image": "https://rockandroad.cl/Content/products/1192/4/1c/41c9b525be8e48d29edf74e915922d79_900.jpg",
+    "store": "Tienda 5"
+  },
+  {
+    "name": "Bicicleta 5",
+    "price": 500000,
+    "image": "https://rockandroad.cl/Content/products/1192/4/1c/41c9b525be8e48d29edf74e915922d79_900.jpg",
+    "store": "Tienda 5"
+  },
+  {
+    "name": "Bicicleta 5",
+    "price": 500000,
+    "image": "https://rockandroad.cl/Content/products/1192/4/1c/41c9b525be8e48d29edf74e915922d79_900.jpg",
+    "store": "Tienda 5"
+  }
+]

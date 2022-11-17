@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Accesorio 1",
+    "price": 100000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/montaje-topeak-omni-para-celular-auto_15168_sq.webp?treat2",
+    "store": "Tienda 1"
+  },
+  {
+    "name": "Accesorio 2",
+    "price": 200000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/silla-delantera-shotgun-kids_942_sq.webp?treat2",
+    "store": "Tienda 2"
+  },
+  {
+    "name": "Accesorio 3",
+    "price": 300000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/carcasa-cmontaje-topeak-iphone-55s-negverde_15124_sq.webp?treat2",
+    "store": "Tienda 3"
+  },
+  {
+    "name": "Accesorio 4",
+    "price": 400000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/parador-de-bicicleta-lifeline-home-mechanic-workstand-mat_11555_sq.webp?treat2",
+    "store": "Tienda 4"
+  },
+  {
+    "name": "Accesorio 3",
+    "price": 300000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/carcasa-cmontaje-topeak-iphone-55s-negverde_15124_sq.webp?treat2",
+    "store": "Tienda 3"
+  },
+  {
+    "name": "Accesorio 4",
+    "price": 400000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/parador-de-bicicleta-lifeline-home-mechanic-workstand-mat_11555_sq.webp?treat2",
+    "store": "Tienda 4"
+  },
+  {
+    "name": "Accesorio 3",
+    "price": 300000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/carcasa-cmontaje-topeak-iphone-55s-negverde_15124_sq.webp?treat2",
+    "store": "Tienda 3"
+  },
+  {
+    "name": "Accesorio 4",
+    "price": 400000,
+    "image": "https://static.crossmountain.cl/a/200/images/static/parador-de-bicicleta-lifeline-home-mechanic-workstand-mat_11555_sq.webp?treat2",
+    "store": "Tienda 4"
+  }
+]

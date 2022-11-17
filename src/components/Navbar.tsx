@@ -13,34 +13,27 @@ const Navbar = () => {
           <div className="">
             <ul className="flex space-x-8 ">
               <li className="text-beige">
-                <a href="/" className="text-lg text-red">
+                <a href="/bicicletas" className="text-lg text-red">
                   Bicicletas
                 </a>
               </li>
               <li className="text-beige">
-                <a href="/" className="text-lg text-red">
+                <a href="/repuestos" className="text-lg text-red">
                   Repuestos
                 </a>
               </li>
               <li>
-                <a href="/" className="text-lg text-red">
+                <a href="/accesorios" className="text-lg text-red">
                   Accesorios
                 </a>
               </li>
             </ul>
           </div>
           <div>
-          <ul className="flex space-x-8 ">
-              {/* <li className="text-beige">
-                <a href="/login" className="text-lg text-red">
-                  Iniciar sesión
-                </a>
+          <ul className="flex space-x-8 text-fullWhite">
+              <li className="bg-red py-2 px-4 rounded-lg">
+                <a href="/">Ir a comunidad</a>
               </li>
-              <li className="text-beige">
-                <a href="/register" className="text-lg text-red">
-                  Registrase
-                </a>
-              </li> */}
             </ul>
           </div>
         </div>

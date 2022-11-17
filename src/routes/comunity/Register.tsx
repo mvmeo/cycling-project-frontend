@@ -1,5 +1,5 @@
 import React from 'react'
-import RegisterCard from '../components/RegisterCard';
+import RegisterCard from '../../components/RegisterCard';
 
 const Register = () => {
     return (

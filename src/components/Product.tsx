@@ -1,21 +1,15 @@
 import React from "react";
-
-interface ProductProps {
-  name: string;
-  price: number;
-  image: string;
-  store: string;
-}
+import { ProductProps } from "../types";
 
 const Product = (props:ProductProps) => {
   return (
     <div className="bg-fullWhite rounded-[10px] m-4">
-      <a className="" href="/bicicletas/:id">
+      <a className="" href="/bicicleta/:id">
         <div className="p-6 mb-8">
         <img
           src={props.image}
           alt={props.name}
-          className="w-full h-[300px] object-cover"
+          className="h-[300px] object-cover"
         />
         <h1 className="text-[30px]">{props.name}</h1>
         <h3 className="text-grayDarker mb-4">{props.store}</h3>
